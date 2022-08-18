@@ -16,10 +16,11 @@ let songs = [
     {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Rabba ", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Sakhiyaan ", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Sakhiyaan ", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Bhula Dena ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Tumhari Kasam", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Bappu", filePath: "songs/9.mp3", coverPath: "covers/12.jpg"},
     {songName: "295 ", filePath: "songs/10.mp3", coverPath: "covers/11.jpg"},
+    {songName: "Level ", filePath: "songs/11.mp3", coverPath: "covers/13.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
